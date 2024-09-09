@@ -1,0 +1,22 @@
+required dependency:
+
+express 
+mongoose 
+jsonwebtoken 
+bcrypt 
+cors 
+dotenv 
+body-parser 
+multer 
+stripe 
+validator 
+nodemon
+
+To cmd:
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+MongooDB:
+ganeshkumili7
+AZI21PqEniLq8FSJ
+
+mongodb+srv://ganeshkumili7:AZI21PqEniLq8FSJ@cluster0.rh7rqxb.mongodb.net/?

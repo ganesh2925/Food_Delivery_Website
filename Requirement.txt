@@ -1,0 +1,38 @@
+required dependency(Admin):
+
+axios
+recat-toastify
+recat-router-dom
+
+To Install cmd:
+npm install axios recat-toastify recat-router-dom
+
+required dependency(frontend):
+
+axios
+
+To Install cmd:
+npm install axios
+
+required dependency(Backend):
+
+express 
+mongoose 
+jsonwebtoken 
+bcrypt 
+cors 
+dotenv 
+body-parser 
+multer 
+stripe 
+validator 
+nodemon
+
+To Install cmd:
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+MongooDB:
+ganeshkumili7
+AZI21PqEniLq8FSJ
+
+mongodb+srv://ganeshkumili7:AZI21PqEniLq8FSJ@cluster0.rh7rqxb.mongodb.net/?
