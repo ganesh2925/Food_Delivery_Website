@@ -76,6 +76,8 @@ This project is a full-stack food delivery web application that allows users to 
 
 ## Screen Recording:-
 
+https://github.com/user-attachments/assets/6b25a858-ac73-4348-aac3-61279f7da2a9
+
 
 
 ## Future Improvements
