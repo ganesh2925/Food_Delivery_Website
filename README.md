@@ -21,28 +21,39 @@ This project is a full-stack food delivery web application that allows users to 
 ## How to Run
 #### Backend Setup (Node.js + Express)
 **Clone this repository:**<br>
+
 `git clone https://github.com/your-username/food-delivery-app.git `<br>
+
 **Navigate to the backend directory:**<br>
+
 `cd food-delivery-app/backend`<br>
+
 **Install the dependencies:**<br>
+
 `npm install`
+
 #### Create a .env file in the backend directory and add the following variables:
 
 `MONGO_URI=your-mongodb-uri`<br>
+
 `JWT_SECRET=your-jwt-secret`<br>
 
 **Start the backend server:**
+
 `node server.js`
 
 ## Frontend Setup (React)
 
 **Navigate to the frontend directory:**<br>
+
 `cd ../frontend`
 
 **Install the dependencies:**<br>
+
 `npm install`
 
 **Start the frontend development server:**<br>
+
 `npm run dev`
 
 **Open your browser and navigate to `http://localhost:3000` to access the website.**
@@ -66,8 +77,8 @@ This project is a full-stack food delivery web application that allows users to 
 ## Screenshots
 
 ## Future Improvements
-Add real-time order tracking with WebSockets.
-Integration with third-party payment gateways (Stripe, PayPal).
+Add real-time order tracking with WebSockets.<br>
+Integration with third-party payment gateways (Stripe, PayPal).<br>
 Reviews and ratings for restaurants and dishes.
 
 ## License
