@@ -20,11 +20,11 @@ This project is a full-stack food delivery web application that allows users to 
 
 ## How to Run
 #### Backend Setup (Node.js + Express)
-**Clone this repository:**
+**Clone this repository:**<br>
 `git clone https://github.com/your-username/food-delivery-app.git `<br>
-**Navigate to the backend directory:**
+**Navigate to the backend directory:**<br>
 `cd food-delivery-app/backend`<br>
-**Install the dependencies:**
+**Install the dependencies:**<br>
 `npm install`
 #### Create a .env file in the backend directory and add the following variables:
 
@@ -36,13 +36,13 @@ This project is a full-stack food delivery web application that allows users to 
 
 ## Frontend Setup (React)
 
-**Navigate to the frontend directory:**
+**Navigate to the frontend directory:**<br>
 `cd ../frontend`
 
-**Install the dependencies:**
+**Install the dependencies:**<br>
 `npm install`
 
-**Start the frontend development server:**
+**Start the frontend development server:**<br>
 `npm run dev`
 
 **Open your browser and navigate to `http://localhost:3000` to access the website.**
