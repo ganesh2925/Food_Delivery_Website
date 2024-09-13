@@ -74,7 +74,9 @@ This project is a full-stack food delivery web application that allows users to 
 `│`<br>
 `└── .env                # Environment variables for database and JWT`<br>
 
-## Screenshots
+## Screen Recording:-
+
+
 
 ## Future Improvements
 Add real-time order tracking with WebSockets.<br>
