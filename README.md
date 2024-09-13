@@ -21,16 +21,15 @@ This project is a full-stack food delivery web application that allows users to 
 ## How to Run
 #### Backend Setup (Node.js + Express)
 **Clone this repository:**
-`git clone https://github.com/your-username/food-delivery-app.git `
+`git clone https://github.com/your-username/food-delivery-app.git `<br>
 **Navigate to the backend directory:**
-`cd food-delivery-app/backend`
+`cd food-delivery-app/backend`<br>
 **Install the dependencies:**
 `npm install`
 #### Create a .env file in the backend directory and add the following variables:
 
-`env`
-`MONGO_URI=your-mongodb-uri`
-`JWT_SECRET=your-jwt-secret`
+`MONGO_URI=your-mongodb-uri`<br>
+`JWT_SECRET=your-jwt-secret`<br>
 
 **Start the backend server:**
 `node server.js`
