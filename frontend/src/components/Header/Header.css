@@ -18,7 +18,7 @@
     left: 6vw;
     top: 150px;
     color: white;
-    animation: fadeIn 1.8s;
+    animation: fadeInOut 1.8s;
 }
 
 .header-contents h2 {
@@ -45,6 +45,18 @@
     background-color: black;
     color: white;
 }
+
+@keyframes fadeInOut {
+    0% {
+      opacity: 0;    
+      transform: scale(0.75);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
 
 @media (max-width: 1024px) {
     .header {

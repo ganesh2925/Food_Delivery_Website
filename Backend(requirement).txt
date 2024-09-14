@@ -16,7 +16,9 @@ To cmd:
 npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
 
 MongooDB:
-ganeshkumili7
-AZI21PqEniLq8FSJ
+username = your mongodb username
+password = your mongodb password
 
-mongodb+srv://ganeshkumili7:AZI21PqEniLq8FSJ@cluster0.rh7rqxb.mongodb.net/?
+MongooDB connecting url:
+
+mongodb://username:password@localhost:27017/yourdatabase
